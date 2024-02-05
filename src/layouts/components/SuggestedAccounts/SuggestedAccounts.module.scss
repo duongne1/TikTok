@@ -1,0 +1,42 @@
+.wrapper {
+}
+
+.lable {
+    padding: 8px;
+    font-size: 1.4rem;
+}
+
+.account-item {
+    display: flex;
+    padding: 8px;
+}
+
+.avatar {
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.info-item {
+    flex: 1;
+    margin-left: 12px;
+}
+
+.nick-name {
+    margin-top: 0;
+    font-size: 1.6rem;
+    color: #161823;
+    line-height: 1;
+}
+
+.check {
+    font-size: 1.4rem;
+    margin-left: 4px;
+    color: #20d5ec;
+}
+
+.name {
+    font-size: 1.2rem;
+    opacity: #161823bf;
+}
